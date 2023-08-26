@@ -14,8 +14,8 @@ This repository contains a Node.js application deployment pipeline using Jenkins
 
 By automating these stages in the Jenkins pipeline, the deployment process becomes more streamlined, efficient, and reproducible. Each stage contributes to ensuring the application's quality, security, and consistent deployment across various environments.
 
-![Deployment-stages]()
+![Deployment-stages](https://github.com/EmAdd9/Demo-webpage-NodeJs/blob/6a3ef3eac0a8a8f9aa4d601bb35c7da88bdd7a31/images/NodeJsDemo_CI-CD.png)
 
-![Running-webpage]()
+![Running-webpage](https://github.com/EmAdd9/Demo-webpage-NodeJs/blob/6a3ef3eac0a8a8f9aa4d601bb35c7da88bdd7a31/images/Demo%20App.png)
 
 Feel free to contribute, report issues, or make improvements to this pipeline by creating pull requests. Happy deploying!
